@@ -1,0 +1,8 @@
+train: /home/leaf/deve/yolo/voc/Dominoes/images/train
+val: /home/leaf/deve/yolo/voc/Dominoes/images/val
+
+# number of classes
+nc: 4
+
+# class names
+names: ['red_green','red_yellow','blue_green','blue_yellow']
